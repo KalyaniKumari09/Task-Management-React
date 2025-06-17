@@ -10,3 +10,6 @@ A uesr-friendly & responsive task management application built with React. The a
    
 ## Mobile View
   Mobile view (https://raw.githubusercontent.com/KalyaniKumari09/Task-Management-React/main/public/Phone-view.png)
+  
+## Added Task with Title, Description & Due Date 
+   link (https://raw.githubusercontent.com/KalyaniKumari09/Task-Management-React/main/public/add-task.png)
