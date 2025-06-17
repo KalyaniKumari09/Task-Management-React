@@ -2,7 +2,7 @@
 The React-based Task Manager app helps users manage daily tasks with features like adding, editing, deleting, and marking tasks as complete or incomplete. It supports due dates, filtering, and search, with data saved in localStorage for persistence. The interface is fully responsive across all devices.
 
 **Task Manager Application**
-The Task Manager app built in React is a simple yet functional application designed to help users manage their daily tasks efficiently. It allows users to add, edit, delete, and mark tasks as complete or incomplete. Each task includes a title, description, and due date, and the tasks are stored in the browser’s localStorage to ensure data persists across sessions. The app also provides filtering options to view all tasks, completed tasks, or only the incomplete ones, along with a search feature to quickly find specific tasks. The user interface is responsive, adapting smoothly to mobile, tablet, and desktop devices. It uses modern React features like functional components and hooks (useState, useEffect) to manage state and side effects. Overall, the app offers a clean, interactive, and user-friendly experience for basic task management.
+The Task Manager app built in React is a simple yet functional application designed to help users manage their daily tasks efficiently. It allows users to add, edit, delete, and mark tasks as complete or incomplete. Each task includes a title, description, and due date, and the tasks are stored in the browser’s localStorage to ensure data persists across sessions. 
 
 
 ##  Snapshot
@@ -85,8 +85,7 @@ Solution: Implemented localStorage with useEffect hook for automatic saving
 Challenge: Implementing multiple filter criteria
 Solution: Created a composite filtering system combining status and search filters
 
-** Lessons learned **      
-- This project taught me a lot about structuring React applications effectively and handling real-world issues like data persistence and responsive UI. I gained hands-on experience in debugging layout problems, managing application state cleanly, and designing with accessibility and flexibility in mind. It reinforced the importance of testing across different devices and using browser developer tools effectively. Ultimately, this application gave me a stronger foundation in both front-end logic and UI/UX considerations.
+
 
 
 
