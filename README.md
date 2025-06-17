@@ -9,4 +9,4 @@ A uesr-friendly & responsive task management application built with React. The a
    Desktop View (https://raw.githubusercontent.com/KalyaniKumari09/Task-Management-React/main/public/desktop-view.png)
    
 ## Mobile View
-  Mobile view (https://raw.githubusercontent.com/KalyaniKumari09/Task-Management-React/main/public/phone-view.png)
+  Mobile view (https://raw.githubusercontent.com/KalyaniKumari09/Task-Management-React/main/public/Phone-view.png)
